@@ -9,16 +9,17 @@ The analysis is based on the National Transportation Safety Board (NTSB) aviatio
 
 Data Analysis
 The frequency of Accidents is anlysed against the Make, No. of Engines, Types of Engines and the severity of casualties. From this analysis it is determined that aircraft with reciprocating engines are the most dangerous and those with 3 or nore engines are the safest. Further analysis of the top 10 models (based on the number of incidents) is done to determine the survival rate, the number of accidents based on engine numbers, and from this analysis, I determine that Boeing has the highest survival rate, thehighest median no. of engines and the lowest occurences of accidents especially in the 3 and 4 engine category.
-<img src="./Images/image-1.png>
-<img src="./Images/image-2.png>
-<img src="./Images/image-3.png>
-<img src='./Images/image-4.png>
+![Alt text](./images/image-1.png)
+![Alt text](./images/image-2.png)
+![Alt text](./images/image-3.png)
+![Alt text](./images/image-4.png)
+
 
 
 The analysis now focusses on Boeing to analyze the frequency of accidents for the models with 3 or more engines. The main Boeing Models are the 747, 727, and the 707.  The other models such ad DC-10, B17 and B1 are either military planes and/or no longer in the market.
 However, comparing the number Boeing's accidents for models with 3 engines and above(155) with the total accidents in the AviationData_Clean (over 78K), it is correct to say that Boeing Models are overall safe, and the company should consider Boeing as the make and chose the above models based on the level of usage e.g. no. of passengers, distance covered, maintenance costs etc
-<img src="./Images/image-5.png>
-<img src="./Images/image-6.png>
+![Alt text](./images/image-5.png)
+![Alt text](./images/image-6.png)
 
 Recommendations
 1. Comparing the number of Boeing’s accidents for models with 3 engines and above(155) with the total accidents in the cleaned dataset (over 78K), it is correct to say that Boeing is the safest Make.
@@ -35,3 +36,8 @@ Maximum no. of Passengers and Crew
 
 This coupled with competitor and market analysis, customer preferences ,financial models, will help the company make the best decision on the mix and size of the fleet that will yield the best return on investment.
 
+
+Please also view the following interactive dashboards:
+[View the Tableau Workbook](https://public.tableau.com/app/profile/wambui.munene/viz/AccidentFrequencySurvivalRateCasualtiesbytop10makes/Frequency_SurvivalRate_CasualtiesbyMake?publish=yes)
+[View the Tableau Workbook](https://public.tableau.com/app/profile/wambui.munene/viz/AccidentFrequencybyYear_17259695435910/TimelineofAccidentsbyMake)
+[View the Tableau Workbook](https://public.tableau.com/app/profile/wambui.munene/viz/AccidentsbyStates/AccidentsbyState?publish=yes)
